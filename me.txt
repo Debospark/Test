@@ -1,6 +1,0 @@
-{#user}}
-Name: Debashree Mohapatra
-Skills: AWS cloud, Jenkins, Ansible, Docker, Kubernetes, Git, Linux, C++, Java, SQL
-Email: avidebadya@gmail.com
-{{/user}}
-
